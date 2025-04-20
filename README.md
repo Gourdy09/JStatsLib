@@ -2,6 +2,8 @@
 
 **JStatsLib** is a Java library for performing statistical analysis and generating data visualizations. It allows you to import 1D data from a file, analyze it using methods like mean, median, mode, standard deviation, and more, and visualize it with graphs like box plots, histograms, pie charts, and others.
 
+Read the documentation here: https://gourdy09.github.io/JStatsLib/
+
 ---
 
 ## ✨ Features
