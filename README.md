@@ -68,10 +68,10 @@ public class Main {
         vp.showGraph();
     }
 }
+```
 
 ---
 
-```
 ## 📂 File Format
 Input files should contain one data value per line or separated by a custom delimiter.
 
